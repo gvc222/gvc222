@@ -4,6 +4,8 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 
 ### 🔭 My current projects
 🧙 Visual Novel - I am developing a witch-themed visual novel as an indie game dev using Ren'Py. 
+🖥️ Interactive Website - I am designing and programming an interactive website reminiscent of the Flash game era, inspired by my favorite website, scary.com
+
 
 ### 📖 Courses I'm currently taking
 * [Freecodecamp's Core Curriculum](https://www.freecodecamp.org/learn/)
