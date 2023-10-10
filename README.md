@@ -3,11 +3,9 @@
 I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sales, and Marketing through my experiences in the telecommunications, lasers, and network interconnects industries. I started playing videogames before I could read, which eventually taught me how to speak English, my second language! I currently specialize as a Front-End developer and working towards Full Stack.
 
 ### 🔭 My current projects
-🧙 Visual Novel - I am developing a witch-themed visual novel as an indie game dev using Ren'Py. 
-
-🖥️ Interactive Website - I am designing and programming an interactive website reminiscent of the Adobe Flash game era, inspired by my favorite website, scary.com.
-
-💃 Dance Performance - I am in a performance troupe that is preparing for a huge performance in November!
+🧙 Visual Novel - I am developing a witch-themed visual novel as an indie game dev using Ren'Py. <br>
+🖥️ Interactive Website - I am making an interactive website reminiscent of the Adobe Flash games era, my favorite era.<br>
+💃 Dance Performance - I am in a performance troupe that is preparing for a huge performance in November!<br>
 
 
 ### 📖 Courses I'm currently taking
