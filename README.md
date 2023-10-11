@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <!--
 Technology
 Front End: HTML5, CSS, JavaScript, React
-BackEnd: Express, Node.js, PostgreSQL
-Misc: VSCode, Figma, npm
+BackEnd: Express, Node.js, PostgreSQL, MongoDB, Mongoose
+Misc: VSCode, Figma, npm, Docker
 -->
