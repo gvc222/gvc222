@@ -6,6 +6,7 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 🧙 Visual Novel - I am developing a witch-themed visual novel as an indie game dev using Ren'Py. <br>
 🖥️ Interactive Website - I am making an interactive website reminiscent of the Adobe Flash games era, my favorite era.<br>
 💃 Dance Performance - I am in a performance troupe that is preparing for a huge performance in November!<br>
+🌐 WishKoStar - I am developing and designing a system that helps generous donors help underprivileged schools in the Philippines gain access to internet with Starlink Satellites.
 
 
 ### 📖 Courses I'm currently taking
