@@ -26,7 +26,7 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 
 
 
-
+https://www.linkedin.com/in/giannacalderon/
 
 Keep coding! 🚀💃🌱
 <!--
