@@ -24,10 +24,8 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 
 🎮 Leveling up isn't just for code! I'm a gamer at heart, conquering virtual worlds and vanquishing foes. Let's squad up and hit the battlefield!
 
-
-
-https://www.linkedin.com/in/giannacalderon/
-
+[Connect with me on LinkedIn!
+]([url](https://www.linkedin.com/in/giannacalderon/))
 Keep coding! 🚀💃🌱
 <!--
 **gvc222/gvc222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
