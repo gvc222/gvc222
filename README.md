@@ -5,7 +5,7 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 ### 🔭 My current projects
 🧙 Visual Novel - I am developing a witch-themed visual novel as an indie game dev using Ren'Py. <br>
 🖥️ Interactive Website - I am making an interactive website reminiscent of the Adobe Flash games era, my favorite era.<br>
-💃 Dance Performance - I am in a performance troupe that is preparing for a huge performance in November! (Update: See the video here! https://www.youtube.com/watch?v=juHe5mSzvHQ&ab_channel=PreludeDanceCompetition)<br>
+💃 Dance Performance - I am in a performance troupe and we recently won World of Dance Bay Area 2024! (https://www.youtube.com/watch?v=KNItBSvIjIE&t=172s&ab_channel=OfficialWorldofDance)<br>
 🌐 WishKoStar - I am developing and designing a system that helps generous donors help underprivileged schools in the Philippines gain access to internet with Starlink Satellites.
 
 
