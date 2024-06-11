@@ -25,10 +25,10 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 
 🎮 Leveling up isn't just for code! I'm a gamer at heart, conquering virtual worlds and vanquishing foes. Let's squad up and hit the battlefield!
 
-[Connect with me on LinkedIn!
-]([url](https://www.linkedin.com/in/giannacalderon/))
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/giannacalderon/)
 
-[Play a game me and my friends submitted for Gamedev.js 2024!]([url)(https://lotus-1.itch.io/let-him-brew))
+[Play a game me and my friends submitted for Gamedev.js 2024!](https://lotus-1.itch.io/let-him-brew)
+
 Keep coding! 🚀💃🌱
 <!--
 **gvc222/gvc222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
