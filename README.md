@@ -27,6 +27,7 @@ I'm a multidisciplinary engineer with a background in Mechanical Engineering, Sa
 
 [Connect with me on LinkedIn!
 ]([url](https://www.linkedin.com/in/giannacalderon/))
+
 [Play a game me and my friends submitted for Gamedev.js 2024!]([url)(https://lotus-1.itch.io/let-him-brew))
 Keep coding! 🚀💃🌱
 <!--
